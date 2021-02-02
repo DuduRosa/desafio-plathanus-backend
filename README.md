@@ -30,4 +30,4 @@ $ knex migrate:latest
 #Execute a aplicação
 $ npm run dev
 
-#O servidor inciará na porta:3000 - acesse http://localhost:3333
+#O servidor inciará na porta:3333 - acesse http://localhost:3333
