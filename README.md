@@ -20,7 +20,7 @@ Agora é só executar 'npm run dev'
 $ git clone https://github.com/DuduRosa/desafio-plathanus-backend.git
 
 #Acesse a pasta do projeto no terminal/cmd
-$ cd desafio-plathanus-backend-master
+$ cd desafio-plathanus-backend
 
 #Instale as dependências
 $ npm install
