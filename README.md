@@ -14,12 +14,13 @@ $ knex migrate:latest
 #Iniciando o projeto
 Agora é só executar 'npm run dev'
 
-#-----------------Clonando o repositório-----------------------------
+#-----------------Clonando o repositório------------------
+
 #Clonando o repositorio
 $ git clone https://github.com/DuduRosa/desafio-plathanus-backend.git
 
 #Acesse a pasta do projeto no terminal/cmd
-$ cd backend
+$ cd desafio-plathanus-backend-master
 
 #Instale as dependências
 $ npm install
